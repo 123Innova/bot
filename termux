@@ -1,0 +1,7 @@
+$ apt install git python2 python curl openssl-tools tor
+$ git clone https://github.com/safazz/termux-toolkit
+$ cd termux-toolkit
+$ chmod +x install
+$ ./install
+$ bash run.sh
+
